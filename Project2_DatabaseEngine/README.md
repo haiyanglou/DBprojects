@@ -1,4 +1,4 @@
-davisql> help;
+sql> help;
 ++++++++++++++++++++++++++++++++++
 SUPPORTED COMMANDS
 (COMMANDS ARE CASE INSENSITIVE)
